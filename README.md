@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/40c15c40-cfc9-4a55-8a50-350013229155)# MLLMsLayoutGeneration
+# MLLMsLayoutGeneration
 LayoutGeneration by MLLMs
 
 # 코드 실행
