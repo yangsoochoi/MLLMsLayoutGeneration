@@ -3,8 +3,8 @@ LayoutGeneration by MLLMs
 
 # 코드 실행
 - Base논문 (NeurIPS 2023)LayoutPrompter: Awaken the Design Ability of Large Language Models
-@ 재현 코드 : notebooks\LayoutPrompter.ipynb
-@ 나의 연구 : notebooks\MyPrompter.ipynb
+- 재현 코드 : notebooks\LayoutPrompter.ipynb
+- 나의 연구 : notebooks\MyPrompter.ipynb
 
 # Environment
 1. python=3.8
